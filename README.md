@@ -7,13 +7,10 @@
 
 <p style="margin-bottom:1cm;"> </p>
 
-The Machine Learning for Fundamental Physics (ML4FP) School 2026 will be hosted at the Georgia Institute of Technology.
-All talks and tutorials will be given in person, and participants can register to participate in-person or virtually. 
-After two highly successful US ATLAS Machine Learning (ML) training events in 2022 and 2023, followed by two successful ML4FP event in 2024 and 2025 
-we are excited to continue this pattern. This event remains open to all particle physicists. Similar to last year, this year the program is open to all of particle physics.
+The Machine Learning for Fundamental Physics (ML4FP) School 2026 was hosted at the Georgia Institute of Technology.
+All talk and tutorial recordings are available on the indico:.
 
- The US ATLAS ATC program supports domestic travel and accommodation for US ATLAS early career researchers. Additional funding from the DOE / ORNL supports domestic travel for other early career researchers. These participants will be offered lodging in Georgia Tech students apartments located in Midtown Atlanta.
- NERSC will provide training accounts with GPU nodes for registered participants.
+Datasets for the tutorials can be downloaded from https://portal.nersc.gov/cfs/m5295/.
 
 <p style="margin-bottom:1cm;"> </p>
 
